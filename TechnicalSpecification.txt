@@ -1,0 +1,4 @@
+Note:
+1. id, title, body, date + time of creating
+2. saving to json-format
+3. capabilities: creation, saving, reading the entire list of notes, note's edition, removing, sampling by date
